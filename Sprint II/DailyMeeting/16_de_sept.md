@@ -1,5 +1,5 @@
 LINK DE LA REUNION
-[https://drive.google.com/file/d/1RQIaZG1y1kPzaGcnmJ8BWpLYhL4QHB4I/view]: https://drive.google.com/file/d/1RQIaZG1y1kPzaGcnmJ8BWpLYhL4QHB4I/view
+[Link de la reunión]: https://drive.google.com/file/d/1RQIaZG1y1kPzaGcnmJ8BWpLYhL4QHB4I/view
 
 
 FORMULARIO
